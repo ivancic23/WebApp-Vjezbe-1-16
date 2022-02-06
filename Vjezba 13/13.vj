@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<style>
+			#crvena {color: red;}
+		</style>
+	</head>
+	<body>
+		<h1>GNK Dinamo Zagreb</h1>
+		<p>Nogometni klub Dinamo Zagreb smješten je u glavnom gradu Hrvatske te je trenutno vodeća nogometna ekipa na tablici HNL-a.</p>
+		<p id="crvena">Dinamo Zagreb osnovan je pod nazivom HŠK Građanski  26. travnja 1911. godine.</p>
+	</body>
+</html>
