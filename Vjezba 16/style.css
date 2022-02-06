@@ -1,0 +1,17 @@
+body, html {
+	font-family: Arial;
+	margin: 0;
+	font-size: 16px;
+	background-color: black;
+	color: white }
+
+.vjezba img {
+	float: left;
+	margin: 1%;  }
+
+.vjezba h1 {
+	float: right; }
+
+iframe {
+	margin: 10px; }
+
